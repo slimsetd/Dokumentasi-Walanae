@@ -1,8 +1,7 @@
 # SISTEM
 ## Pengaturan Sistem
 Ruas-ruas pada sub-menu ini dapat Anda gunakan untuk melakukan pengubahan preferensi global aplikasi SETIADI.
-###### Setiadi Version: 
-Menunjukan Versi SETIADI yang digunakan saat ini
+- **Setiadi Version**: Menunjukan Versi SETIADI yang digunakan saat ini
 ###### Nama Perpustakaan:
 Isikan dengan nama Perpustakaan
 ###### Nama Tambahan Perpustakaan:
