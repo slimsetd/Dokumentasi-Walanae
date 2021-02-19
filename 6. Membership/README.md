@@ -8,6 +8,8 @@ Pilihan ini digunakan untuk menambahkan Anggota baru kedalam system
 
 ## Tipe Keanggotaan
 Menu ini merupakan aturan dasar bagi anggota yang terdaftar
+# 
+# 
 
 ## PERALATAN
 ## Kartu Anggota
