@@ -1,3 +1,3 @@
-OPAC yang akan dibahas pada bab ini merupakan akronim dari _Online Public Access Catalogue_ dengan terjemahan bebas menjadi Katalog Daring Akses Publik. Katalog daring artinya rangkaian informasi tentang produk, dalam hal ini buku, yang diterbitkan
+OPAC yang akan dibahas pada bab ini merupakan akronim dari _Online Public Access Catalogue_ dengan terjemahan bebas menjadi Katalog Daring Akses Publik. Katalog daring artinya rangkaian informasi tentang produk, dalam hal ini ETD, yang diterbitkan
 menggunakan internet dalam satu laman atau situs sehingga dapat diakses dari mana pun, kapan pun, oleh siapa pun, dengan kata lain, akses publik. OPAC merupakan salah satu antarmuka yang digunakan pada SLiMS. Selain OPAC,
 antarmuka lainnya adalah antarmuka Administrasi. Antarmuka Administrasi akan banyak dibahas dan dilihat pada bab-bab setelah bab ini. Di dalam bab ini, kita akan melihat pernak-pernik yang ada di dalam antarmuka OPAC.
