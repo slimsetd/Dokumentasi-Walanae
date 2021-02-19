@@ -59,7 +59,8 @@ Sub-menu inid iisikan dengan bahasa yang digunakan oleh dokumen. Misal:Bahasa In
 Sub-menu ini diisi dengan kala terbit/frekuensi terbit terbitan berseri.
 Anda bisa menambahkan kala terbit baru, melakukan edit atau menghapus kala terbit yang sudah ada.
 
-#
+# 
+# 
 
 ## Peralatan
 ## Data Pengarang Mubazir
