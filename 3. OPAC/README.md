@@ -17,3 +17,11 @@ Untuk melakukan perubahan bahasa, bisa dilakukan melalui icon Bahasa pada OPAC s
 ## Konfigurasi Tema (Warna Heading OPAC)
 ![2 3  OPAC Walanae Konfigurasi](https://user-images.githubusercontent.com/37967729/109100020-a8ee1480-7756-11eb-90db-625ecac4ab37.PNG)
 Pada tema OPAC Walanae ini, dimungkinkan juga melakukan perubahan warna Heading OPAC yang bisa disesuaikan dengan kebutuhan. Di pojok kanan atas terdapat icon Titik Tiga, jika kita pilih maka akan terdapat beberapa sub-menu, salah satunya adalah Theme Switch yang bisa kita pilih untuk mengganti warna dasar Heading OPAC sesuai dengan keinginan kita.
+
+## Sidebar Kiri
+![2 4](https://user-images.githubusercontent.com/37967729/109100223-1437e680-7757-11eb-95c2-9f974e819ed8.PNG)
+Pada tema baru yang digunakan oleh Walanae, di sidebar sebelah kiri terdapat beberapa link/informasi yang bisa digunakan oleh user seperti; Beranda depan, info perpustakaan, Link, E-Resources, dsb.
+
+## Sidebar Kanan
+![2 5](https://user-images.githubusercontent.com/37967729/109100263-26b22000-7757-11eb-9942-1f1fe4ca8529.PNG)
+Pada tema baru yang digunakan oleh Walanae, di sidebar sebelah Kanan terdapat beberapa link/informasi terkait SETIADI, seperti: Informasi tergabungnya SETIADI menjadi ORCID Member, Alamat, dll. Content ini memungkinkan dikonfigurasi jika admin/pengguna ingin menyesuaikan informasi sesuai dengan kebutuhan informasinya masing-masing.
